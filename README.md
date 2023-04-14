@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project need node version 14 or higher, 
-Install node v14
+Install node > = v14
 any code editor of your choice like vs code
 clone the project
 cd project folder path
